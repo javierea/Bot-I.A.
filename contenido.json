@@ -1,0 +1,11 @@
+﻿{"Contenido":[
+        {"tag":"saludo",
+            "patrones":["hola", "buen día", "holis"],
+            "respuestas":["Buen día", "Hola estimado"]
+        },
+        {"tag":"despedida",
+            "patrones":["chau", "adios", "hasta luego", "eso es todo"],
+            "respuestas":["Que tenga buen día", "Quedo a su disposición"]
+        }
+    ]
+}
